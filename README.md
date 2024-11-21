@@ -23,4 +23,3 @@ More info on my website, [https://nihalk17.github.io](https://nihalk17.github.io
     <img src="https://skillicons.dev/icons?i=python,c,cpp,lua,matlab,arduino,mysql,latex,autocad,tensorflow,pytorch,git,fastapi,opencv,azure, bash&perline=15"/>
   </a>
 </p>
-<br> 
