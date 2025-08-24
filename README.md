@@ -20,6 +20,6 @@ More info on my website, [https://nihalk17.github.io](https://nihalk17.github.io
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,lua,matlab,arduino,mysql,latex,autocad,tensorflow,pytorch,git,fastapi,opencv,azure, bash&perline=15"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,lua,matlab,arduino,mysql,sklearn,tensorflow,pytorch,git,fastapi,opencv,azure,bash,aws&perline=15"/>
   </a>
 </p>
