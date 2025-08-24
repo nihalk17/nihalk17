@@ -3,7 +3,7 @@
 More info on my website, [https://nihalk17.github.io](https://nihalk17.github.io). 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineer+II+at+Trimble+Inc.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Grad+Student+at+Stony+Brook+University)](https://git.io/typing-svg)
 
 
 
